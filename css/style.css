@@ -1,3 +1,14 @@
-h1{
-    color:tomate
+* {
+    font-family: sans-serif;
+}
+    
+h1 {
+    color:tomato;
+}
+
+h2 {
+    background: black;
+    color: white;
+    display: inline-block;
+
 }
